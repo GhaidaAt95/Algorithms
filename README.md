@@ -1,5 +1,5 @@
 # SortAlgorithmS ( C++ )
-1) Selection Sort -- Done  -- O(n^2)  --Unstable
+1) Selection Sort -- Done\t  -- O(n^2)  --Unstable
 2) Bubble Sort    -- Done  -- O(n^2)  --Stable
 3) Inserion Sort  -- Done  -- O(n^2)  --Stable
 4) Merge Sort
