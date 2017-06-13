@@ -1,8 +1,8 @@
 # SortAlgorithmS ( C++ )
-1) **Selection Sort** -- Done  -- O(n^2)   --Unstable
-2) **Bubble Sort**    -- Done  -- O(n^2)   --Stable
-3) **Inserion Sort**  -- Done  -- O(n^2)   --Stable
-4) **Merge Sort**     -- Done  -- O(nlogn) --stable
+1) **Selection Sort** -- Done :heavy_check_mark:  -- O(n^2)   --Unstable
+2) **Bubble Sort**    -- Done :heavy_check_mark: -- O(n^2)   --Stable
+3) **Inserion Sort**  -- Done :heavy_check_mark: -- O(n^2)   --Stable
+4) **Merge Sort**     -- Done :heavy_check_mark: -- O(nlogn) --stable
 5) **Quick Sort**
 6) **Heap Sort**
 7) **Counting Sort**
