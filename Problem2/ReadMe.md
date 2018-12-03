@@ -9,12 +9,13 @@ same_**.
 	Ex(2):Input (20, 20, 30, 50),then no solution is possible.
 	
 #Sample Input Data:\
-      **7 Number of elements to input**\
+      **7 **\
 	10\
 	20\
 	30\
 	40\
 	40\
 	50\
-	80
+	80\
+**In which 7 is the # of elements inputed**
 	
