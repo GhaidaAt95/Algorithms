@@ -1,6 +1,6 @@
 /*
 *   Name : Ghaida Al-Atoum         ID#: **********
-*                            HW02
+*                            Lab
 *   Compile Using : gcc -std = c99 Solution.c
 *   asymptotic worst-case time is theta((m^2)n)
 */
