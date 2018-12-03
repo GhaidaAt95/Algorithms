@@ -1,7 +1,7 @@
 /*
  *   Name : Ghaida Al-Atoum         ID#: **********
  *                            HW01
- *   Compile Using : gcc -std = c99 hw01.c 
+ *   Compile Using : gcc -std = c99 Solution.c 
 */
 #include <stdio.h>
 #include <stdlib.h>
