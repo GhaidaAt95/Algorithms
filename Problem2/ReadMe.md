@@ -10,11 +10,11 @@ same_**.
 	
 #Sample Input Data:
       **7 Number of elements to input**
-	10
-	20
-	30
-	40
-	40
-	50
-	80
+	10\
+	20\
+	30\
+	40\
+	40\
+	50\
+	80\
 	
